@@ -1,0 +1,6 @@
+APK Build Note (macOS):
+Unity 2021.3.45f2 on macOS fails Android build due to Burst compiler execution error
+("Burst compiler 1.8.18 failed running").
+Project source code is provided. Gameplay video and aspect ratio screenshots will be added
+under /Submission.
+APK can be generated on a Windows environment if required.
