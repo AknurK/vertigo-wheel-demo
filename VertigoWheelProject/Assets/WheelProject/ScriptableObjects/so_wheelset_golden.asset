@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 236e281543744442a8bdeea5fd293791, type: 3}
+  m_Name: so_wheelset_golden
+  m_EditorClassIdentifier: 
+  slices:
+  - {fileID: 11400000, guid: be2f819eaf00142cc84edbfd86e75604, type: 2}
+  - {fileID: 11400000, guid: f32b8c2b605174403b1398bf6921d414, type: 2}
+  - {fileID: 11400000, guid: ffd8a1b1c0ac24255909997494d62904, type: 2}
+  - {fileID: 11400000, guid: b3cf87c6859764a43a8cf3f71af6114d, type: 2}
+  - {fileID: 11400000, guid: eac3145d0ccd646c58003aceb6a67194, type: 2}
+  - {fileID: 11400000, guid: 2bf3f341b281049de86035c6d10ee50a, type: 2}
+  - {fileID: 11400000, guid: c5eec367e1da24985a9a51f86932a5d4, type: 2}
+  - {fileID: 11400000, guid: ca54199cc933c47b58ae6335edb467a9, type: 2}

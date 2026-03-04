@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: a6e28afad0f05469c9b4b4ed1b318bd9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameConfig: {fileID: 11400000, guid: 970f19b48f9034f9091a0ea2e04c81e0, type: 2}
+  - wheelSetSilver: {fileID: 11400000, guid: 9169c60c2db4a49d0999ec04953a9de2, type: 2}
+  - wheelSetGolden: {fileID: 11400000, guid: c84c26664221d493da9ebb9953f8f381, type: 2}
+  - wheelRootToRotate: {instanceID: 0}
+  - wheelBaseImage: {instanceID: 0}
+  - wheelBaseSilverSprite: {fileID: 21300000, guid: 4ce46800c069b470f8ad452f95a8bcf6, type: 3}
+  - wheelBaseGoldenSprite: {fileID: 21300000, guid: 66c40b660929c46879276cec794cbc1c, type: 3}
+  - indicatorImage: {instanceID: 0}
+  - indicatorSilverSprite: {fileID: 21300000, guid: f8376951866fa4ac5a76f37935c222b7, type: 3}
+  - indicatorGoldenSprite: {fileID: 21300000, guid: 8a42510e79f054dd58345aaa11a73d18, type: 3}
+  - spinButton: {instanceID: 0}
+  - leaveButton: {instanceID: 0}
+  - zoneText: {instanceID: 0}
+  - rewardText: {instanceID: 0}
+  - bankText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
