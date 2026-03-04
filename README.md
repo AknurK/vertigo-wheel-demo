@@ -16,7 +16,8 @@ The wheel randomly selects rewards and applies game logic based on zone rules.
 The following files will be included in the `Submission` folder:
 
 - Gameplay video
-- Screenshots for the following aspect ratios:
+https://drive.google.com/xxxxxxxx
+- Screenshots for the following aspect ratios (in submission file):
   - 20:9
   - 16:9
   - 4:3
